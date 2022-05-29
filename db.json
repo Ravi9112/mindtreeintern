@@ -1,0 +1,99 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "Name": "vvd",
+      "Mobile": 4332,
+      "Email": "fdfds",
+      "Gender": "f",
+      "Place": "fggrg",
+      "id": 2
+    },
+    {
+      "Name": "vvd",
+      "Mobile": 4332,
+      "Email": "fdfds",
+      "Gender": "f",
+      "Place": "fggrg",
+      "id": 3
+    },
+    {
+      "Name": "alok",
+      "Mobile": 7632768432,
+      "Email": "alok@gmail.com",
+      "Gender": "male",
+      "Place": "gorakhpur",
+      "id": 4
+    },
+    {
+      "Name": "rvi",
+      "Mobile": 911250,
+      "Email": "ravi@121",
+      "Gender": "male",
+      "Place": "gkp",
+      "id": 5
+    },
+    {
+      "Name": "sashi",
+      "Mobile": 657657,
+      "Email": "sashi@123",
+      "Gender": "male",
+      "Place": "gkp",
+      "id": 6
+    },
+    {
+      "Name": "oooo",
+      "Mobile": 897987,
+      "Email": "kjklj",
+      "Gender": "nlk",
+      "Place": "nlkn",
+      "id": 7
+    },
+    {
+      "Name": "alok",
+      "Mobile": 6873568732,
+      "Email": "alok@gmail.com",
+      "Gender": "male",
+      "Place": "varanasi",
+      "id": 8
+    },
+    {
+      "Name": "rigved",
+      "Mobile": 9865432,
+      "Email": "rig@gmail.com",
+      "Gender": "male",
+      "Place": "mumbai",
+      "id": 9
+    },
+    {
+      "Name": "pravesh",
+      "Mobile": 78868,
+      "Email": "pravesh@gmail.com",
+      "Gender": "female",
+      "Place": "bundelkhand",
+      "id": 10
+    },
+    {
+      "Name": "ravi",
+      "Mobile": 9112509593,
+      "Email": "saurav842305@gmail.com",
+      "Gender": "male",
+      "Place": "gorakhpur",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
